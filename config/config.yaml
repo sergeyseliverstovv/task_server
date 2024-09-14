@@ -1,0 +1,8 @@
+env: "local"
+storage_url: "https://localhost:44041"
+grpc:
+  port: 8080
+  timeout: 5s
+rest:
+  port: 8081
+  timeout: 5s
